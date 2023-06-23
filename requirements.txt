@@ -5,10 +5,10 @@ anaconda-project==0.10.1
 anyio==3.7.0
 appdirs==1.4.4
 argon2-cffi==21.3.0
-argon2-cffi-bindings==version
+argon2-cffi-bindings==21.2.0
 arrow==1.2.3
 astroid==2.15.5
-astropy==5;3
+astropy==5.3
 asttokens==2.2.1
 atomicwrites==1.4.0
 attrs==23.1.0
@@ -44,9 +44,9 @@ conda==23.3.1
 conda-build==3.24.0
 conda-content-trust==0.1.2
 conda-pack==0.6.0
-conda-package-handling==version
+conda-package-handling==2.1.0
 conda-repo-cli==1.0.41
-conda-token==version
+conda-token==0.4.0
 conda-verify==3.4.2
 conda_package_streaming==0.8.0
 constantly==15.1.0
@@ -313,7 +313,7 @@ tomlkit==0.11.8
 toolz==0.12.0
 torch==1.12.1
 tornado==6.3.2
-tqdm==version
+tqdm==4.65.0
 traitlets==5.9.0
 transformers==4.30.2
 Twisted==22.10.0
