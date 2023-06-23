@@ -1,5 +1,5 @@
-import cv2
 import streamlit as st
+import cv2
 
 # Load the face cascade classifier
 face_cascade = cv2.CascadeClassifier('C:/Users/sarah/Desktop/streamlit/haarcascade_frontalface_default.xml')
@@ -51,3 +51,6 @@ def app():
 
 if __name__ == "__main__":
     app()
+
+import pkg_resources
+print(pkg_resources.get_distribution("alabaster").version)
